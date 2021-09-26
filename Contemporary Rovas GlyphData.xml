@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	unicodeLegacy	CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	case			CDATA		#IMPLIED
+	direction		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#IMPLIED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	marks			CDATA		#IMPLIED>
+]>
+<glyphData format="2">
+	<glyph unicode="10CB3" name="Dz-rovas" sortName="oH006" category="Letter" case="upper" script="rovas" production="u10CB3" direction="RTL" description="OLD HUNGARIAN CAPITAL LETTER DZ" />
+	<glyph unicode="10CB4" name="Dzs-rovas" sortName="oH007" category="Letter" case="upper" script="rovas" production="u10CB4" direction="RTL" description="OLD HUNGARIAN CAPITAL LETTER DZS" />
+	<glyph unicode="10CB5" name="Q-rovas" sortName="oH028" category="Letter" case="upper" script="rovas" production="u10CB5" direction="RTL" description="OLD HUNGARIAN CAPITAL LETTER Q" />
+	<glyph unicode="10CB9" name="Uee-rovas" sortName="oH037" category="Letter" case="upper" script="rovas" production="u10CB9" direction="RTL" description="OLD HUNGARIAN CAPITAL LETTER UEE" />
+	<glyph unicode="10CB6" name="W-rovas" sortName="oH039" category="Letter" case="upper" script="rovas" production="u10CB6" direction="RTL" description="OLD HUNGARIAN CAPITAL LETTER W" />
+	<glyph unicode="10CB7" name="X-rovas" sortName="oH040" category="Letter" case="upper" script="rovas" production="u10CB7" direction="RTL" description="OLD HUNGARIAN CAPITAL LETTER X" />
+	<glyph unicode="10CB8" name="Y-rovas" sortName="oH041" category="Letter" case="upper" script="rovas" production="u10CB8" direction="RTL" description="OLD HUNGARIAN CAPITAL LETTER Y" />
+	<glyph unicode="10CF3" name="dz-rovas" sortName="oH050" category="Letter" case="lower" script="rovas" production="u10CF3" direction="RTL" description="OLD HUNGARIAN SMALL LETTER DZ" />
+	<glyph unicode="10CF4" name="dzs-rovas" sortName="oH051" category="Letter" case="lower" script="rovas" production="u10CF4" direction="RTL" description="OLD HUNGARIAN SMALL LETTER DZS" />
+	<glyph unicode="10CF5" name="q-rovas" sortName="oH072" category="Letter" case="lower" script="rovas" production="u10CF5" direction="RTL" description="OLD HUNGARIAN SMALL LETTER Q" />
+	<glyph unicode="10CF9" name="uee-rovas" sortName="oH081" category="Letter" case="lower" script="rovas" production="u10CF9" direction="RTL" description="OLD HUNGARIAN SMALL LETTER UEE" />
+	<glyph unicode="10CF6" name="w-rovas" sortName="oH083" category="Letter" case="lower" script="rovas" production="u10CF6" direction="RTL" description="OLD HUNGARIAN SMALL LETTER W" />
+	<glyph unicode="10CF7" name="x-rovas" sortName="oH084" category="Letter" case="lower" script="rovas" production="u10CF7" direction="RTL" description="OLD HUNGARIAN SMALL LETTER X" />
+	<glyph unicode="10CF8" name="y-rovas" sortName="oH085" category="Letter" case="lower" script="rovas" production="u10CF8" direction="RTL" description="OLD HUNGARIAN SMALL LETTER Y" />
+	<glyph unicode="10CBF" name="fivehundred-rovas" sortName="oHZ500" category="Number" script="rovas" production="u10CBF" description="OLD HUNGARIAN NUMBER FIVE HUNDRED" />
+</glyphData>
